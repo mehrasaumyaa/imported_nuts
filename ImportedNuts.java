@@ -1,9 +1,6 @@
 /*Name: Mahika Vajpeyi and Saumyaa Mehra
  *File: INuts
- *Description: Presents information on import of nuts into the United States during the period 1999-2014
- *Note: There are a few commented sections in the code that we tried to make work but couldn't. Those commented
- *sections attempt to take a user directly to the screen displaying the graph the user
- *last viewed. 
+ *Description: Presents information on import of nuts into the United States during the period 1999-2014 
  */
 import acm.program.*;
 import java.awt.event.*;
