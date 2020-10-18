@@ -1,4 +1,4 @@
-# GOAL/DESCRIPTION:  
+# Goal:  
 The program reads in data from the Excel file  that reports the value (in million U.S. dollars) of U.S. imports of tree nuts, cashew nuts and ground nuts for the years 1999-2014 and presents the value of imports of each of these items from major sources during the time period mentioned. 
  
 When the user runs the program, three images – of tree nuts, cashew nuts and ground nuts –are displayed (introduction state). A message also appears on the screen, asking the user to click on one of the images. Doing so directs them to the menu state which lists the names of major importers of the nut chosen, in decreasing order of average value of imports over the period of fifteen years. The screen also displays a label asking them to click on the name of the country they wish to view the information for and a BACK ‘button’ which allows the user to return to the introduction state to select another nut.  
